@@ -27,5 +27,5 @@ while True:
         break
 
     else:
-        print("Flubby Chubb")
+        print("\nFlubby Chubb")
         break
